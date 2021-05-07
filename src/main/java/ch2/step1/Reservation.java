@@ -1,6 +1,7 @@
 package ch2.step1;
 
-import javafx.stage.Screen;
+import common.Customer;
+import common.Money;
 
 public class Reservation {
     private Customer customer;

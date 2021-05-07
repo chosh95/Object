@@ -1,5 +1,7 @@
 package ch2.step1;
 
+import common.Money;
+
 public class AmountDiscountPolicy extends DiscountPolicy{
     private Money discountAmount;
 

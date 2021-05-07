@@ -2,7 +2,7 @@ package ch4.step2;
 
 import java.time.LocalDateTime;
 
-import ch2.step1.Money;
+import common.Money;
 
 public class Screening {
     private Movie movie;

@@ -3,7 +3,7 @@ package ch4.step1;
 import java.time.Duration;
 import java.util.List;
 
-import ch2.step1.Money;
+import common.Money;
 
 public class Movie {
     private String title;

@@ -2,6 +2,9 @@ package ch2.step1;
 
 import java.time.LocalDateTime;
 
+import common.Customer;
+import common.Money;
+
 public class Screening {
     private Movie movie;
     private int sequence;

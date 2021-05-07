@@ -1,4 +1,4 @@
-package ch2.step1;
+package common;
 
 public class Customer {
     private String name;

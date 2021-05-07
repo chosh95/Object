@@ -4,7 +4,7 @@ import java.time.Duration;
 import java.time.LocalDateTime;
 import java.util.List;
 
-import ch2.step1.Money;
+import common.Money;
 import ch4.step1.DiscountConditionType;
 import ch4.step1.MovieType;
 

@@ -1,4 +1,4 @@
-package ch2.step1;
+package common;
 
 import java.math.BigDecimal;
 import java.util.Objects;

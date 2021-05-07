@@ -1,6 +1,6 @@
 package ch4.step2;
 
-import ch2.step1.Money;
+import common.Money;
 import ch4.step1.Customer;
 
 public class ReservationAgency {

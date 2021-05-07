@@ -2,6 +2,8 @@ package ch2.step1;
 
 import java.time.Duration;
 
+import common.Money;
+
 public class Movie {
     private String title;
     private Duration runnigTime;

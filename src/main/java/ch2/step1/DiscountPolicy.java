@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import common.Money;
+
 public abstract class DiscountPolicy {
     private List<DiscountCondition> conditions = new ArrayList<DiscountCondition>();
 
